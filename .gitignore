@@ -9,4 +9,4 @@ XDG_CACHE_HOME/
 XDG_CACHE_HOME*
 .idea/
 *.pem
-./vscode
+.vscode/
